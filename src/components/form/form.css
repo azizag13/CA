@@ -1,0 +1,18 @@
+.tab-body {
+    position: relative;
+    top: 100px;
+    left: 40px;
+}
+.mb-2 {
+    position: relative;
+    top: 200px;
+    right: 1240px;
+    
+}
+.mb-2 button {
+    display: flex;
+}
+.btnn {
+    display: flex;
+    
+}
